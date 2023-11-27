@@ -1,0 +1,94 @@
+Dior Sauvage,Dior,Spicy,Peppery,Amber,Woody,Masculine
+Chanel No. 5,Chanel,Floral,Jasmine,Rose,Citrus,Feminine
+Creed Aventus,Creed,Fruity,Pineapple,Birch,Smoky,Masculine  
+Tom Ford Black Orchid,Tom Ford,Floral,Spicy,Chocolate,Vanilla,Unisex
+Jo Malone English Pear & Freesia,Jo Malone,Fruity,Pear,Freesia,Amber,Feminine
+Yves Saint Laurent Black Opium,Yves Saint Laurent,Floral,Coffee,Vanilla,Spicy,Feminine
+Maison Francis Kurkdjian Baccarat Rouge 540,Maison Francis Kurkdjian,Amber,Jasmine,Woody,Sweet,Unisex
+Viktor&Rolf Flowerbomb,Viktor&Rolf,Floral,Jasmine,Rose,Patchouli,Feminine
+Carolina Herrera Good Girl,Carolina Herrera,Floral,Almond,Tuberose,Tonka Bean,Feminine  
+Jean Paul Gaultier Le Male,Jean Paul Gaultier,Woody,Lavender,Vanilla,Spicy,Masculine
+Christian Dior J’Adore,Christian Dior,Floral,Jasmine,Rose,Fruity,Feminine  
+Chanel Chance Eau Tendre,Chanel,Floral,Jasmine,Musk,Fruity,Feminine
+Gucci Bloom,Gucci,Floral,Tuberose,Jasmine,Rangoon Creeper,Feminine 
+Marc Jacobs Daisy,Marc Jacobs,Floral,Strawberry,Violet Leaves,Vanilla,Feminine
+Calvin Klein Eternity,Calvin Klein,Floral,Lily,Rose,Fern,Unisex
+Burberry My Burberry,Burberry,Floral,Peach,Freesia,Patchouli,Feminine
+Giorgio Armani Acqua Di Gio,Giorgio Armani,Aquatic,Jasmine,Lime,Sandalwood,Masculine
+Miss Dior Blooming Bouquet,Christian Dior,Floral,Peony,Rose,Sandalwood,Feminine  
+Ralph Lauren Romance,Ralph Lauren,Floral,Rose,Violet,Oakmoss,Feminine
+Givenchy L'Interdit,Givenchy,Floral,Orange Blossom,Jasmine,Tuberose,Feminine
+Yves Saint Laurent Mon Paris,Yves Saint Laurent,Fruity,Pear,Orange Blossom,White Musk,Feminine  
+Prada Candy,Prada,Caramel,White Musks,Vanilla,Benzoin,Feminine
+Mugler Alien,Mugler,Jasmine,Woody,Amber,Vanilla,Feminine  
+Dolce & Gabbana Light Blue,Dolce & Gabbana,Floral,Bamboo,Citrus,Fruity,Unisex
+Thierry Mugler Angel,Thierry Mugler,Gourmand,Chocolate,Caramel,Vanilla,Feminine  
+Victoria's Secret Bombshell,Victoria's Secret,Fruity,Purple Passion Fruit,Shangri-La Peony,Vanilla,Feminine
+Chloé Chloé,Chloé,Floral,Peony,Rose,Honey,Feminine
+Marc Jacobs Dot,Marc Jacobs,Fruity,Red Berries,Dragon Fruit,Vanilla,Feminine 
+Lancôme La Vie Est Belle,Lancôme,Floral,Iris,Praline,Vanilla,Feminine
+Hermès Twilly d'Hermès,Hermès,Floral,Ginger,Tuberose,Sandalwood,Feminine
+Calvin Klein ck One,Calvin Klein,Citrus,Nutmeg,Violet Leaves,Amber,Unisex  
+Issey Miyake L'Eau d'Issey,Issey Miyake,Aquatic,Lotus,Freesia,Woody,Feminine
+Tom Ford Velvet Orchid,Tom Ford,Floral,Rum,Honey,Vanilla,Feminine 
+Guerlain La Petite Robe Noire,Guerlain,Fruity,Cherry,Iris,Rose,Feminine 
+Diptyque Do Son,Diptyque,Tuberose,Jasmine,Iris,Vanilla,Unisex
+Byredo Bal D'Afrique,Byredo,Citrus,Violet,Moroccan Cedarwood,Unisex
+Narciso Rodriguez For Her,Narciso Rodriguez,Musk,Amber,Patchouli,Rose,Feminine  
+Versace Bright Crystal,Versace,Fruity,Yuzu,Pomegranate,Peony,Feminine 
+Bottega Veneta Knot,Bottega Veneta,Floral,Jasmine,Lavender,Woody,Feminine
+Paco Rabanne Olympea,Paco Rabanne,Floral,Salt,Vanilla,Sandalwood,Feminine  
+Marc Jacobs Daisy Dream,Marc Jacobs,Floral,Blackberry,Pear,Musk,Feminine
+Tiffany Eau de Parfum,Tiffany & Co.,Floral,Iris,Rose,Patchouli,Feminine
+Jimmy Choo Jimmy Choo,Jimmy Choo,Fruity,Pear,Toffee,Patchouli,Feminine
+Juliette Has a Gun Not a Perfume,Juliette Has a Gun,Musky,Ambrox,Cetalox,Woody,Unisex  
+Estée Lauder Pleasures,Estée Lauder,Floral,Lilac,Lily,Rose,Feminine
+Estée Lauder Beautiful,Estée Lauder,Floral,Lily,Rose,Ylang-Ylang,Feminine
+Montblanc Signature,Montblanc,Woodsy,Verbena Leaves,Mandarin Orange,Oakmoss,Masculine
+Hermès Terre D'Hermès,Hermès,Woody,Orange,Flint,Benzoin,Masculine
+Katy Perry Purr,Katy Perry,Floral,Peach,Jasmine,Sandalwood,Feminine
+Vera Wang Princess,Vera Wang,Fruity,Water Lily,Apricot,Vanilla,Feminine
+Kenzo Flower by Kenzo,Kenzo,Floral,Parma Violet,Bulgarain Rose,Vanilla,Feminine
+Bulgari Omnia Crystaline,Bulgari,Aquatic,Lotus Flower,Tea,Musk,Feminine
+Gucci Guilty,Gucci,Floral,Peach,Lilac,Patchouli,Feminine
+Dolce & Gabbana Dolce,Dolce & Gabbana,White Flowers,Neroli,Marshmallow,Musk,Feminine
+Chanel Coco Mademoiselle,Chanel,Floral,Orange,Jasmine,Rose,Feminine
+Giorgio Armani Si,Giorgio Armani,Woody,Blackcurrant,Freesia,Patchouli,Feminine 
+Elizabeth and James Nirvana Black,Elizabeth and James,Woody,Violet,Sandalwood,Vanilla,Unisex
+Penhaligon’s Portraits Gardenia,Penhaligon’s,Floral,Ylang Ylang,Jasmine,Oakmoss,Feminine
+Missoni Missoni,Missoni,Woody,Violet,Sandalwood,Vanilla,Unisex 
+Kilian Love Don't Be Shy,Kilian,Gourmand,Orange Flower,Marshmallow,Amber,Feminine
+Guerlain Mon Guerlain,Guerlain,Lavender,Iris,Vanilla,Sandalwood,Feminine
+Maison Margiela Replica By The Fireplace,Maison Margiela,Woody,Vanilla,Smoky,Amber,Unisex
+Hermes Jardin Sur Le Nil,Hermes,Green,Tomato Leaf,Calamus,Lemon,Unisex
+Serge Lutens Santal Blanc,Serge Lutens,Sandalwood,Almond Milk,Cedar,Tonka Bean ,Unisex
+Frederic Malle Carnal Flower,Frederic Malle,Floral,Tuberose,Coconut,Musk,Feminine
+Guerlain Shalimar,Guerlain,Oriental,Bergamot,Iris,Vanilla,Feminine 
+Boucheron Quatre,Boucheron,Floral,Bulgarian Rose,Jasmine,Wood Sage,Feminine
+Cartier Baiser Vole,Cartier,Floral,Lily,Rose,Green Notes,Feminine
+Van Cleef & Arpels Oriens,Van Cleef & Arpels,Floral,Pear,Jasmine,Amber,Feminine 
+Comme des Garçons Wonderoud,Comme des Garçons,Woody,Sandalwood,Cedarwood,Musk,Unisex
+Elizabeth Arden Green Tea,Elizabeth Arden,Green,Caramel,Rhubarb,Citrus,Unisex
+Giorgio Beverly Hills Giorgio,Giorgio Beverly Hills,Floral,Jasmine,Tuberose,Sandalwood,Feminine
+Salvatore Ferragamo Signorina Misteriosa,Salvatore Ferragamo,Fruity,Black Currant,Neroli,Patchouli,Feminine
+Gaultier2 by Jean Paul Gaultier ,Jean Paul Gaultier,Spicy,Saffron,Red Pepper,Vanilla,Unisex
+Coach Dreams,Coach,Fruity,Blackcurrant,Mandarin,Blue Rose,Feminine 
+Atelier Cologne Orange Sanguine,Atelier Cologne,Citrus,Orange,Jasmine,Sandalwood,Unisex
+Xerjoff Naxos,Xerjoff,Tobacco,Honey,Vanilla,Woodsy,Masculine
+Miu Miu L’eau Bleue,Miu Miu,Floral,Lily of the Valley,Orange Blossom,Akigalawood,Feminine  
+Nina Ricci Nina,Nina Ricci,Fruity,Lemon,Apple,Praline,Feminine
+Elie Saab Le Parfum,Elie Saab,Floral,Orange Blossom,Patchouli,Honey,Feminine 
+Abercrombie & Fitch Authentic,Abercrombie & Fitch,Woody,Mandarin Orange,Sandalwood,Amber,Masculine
+Moschino I Love Love,Moschino,Floral,Orange Blossom,White Flowers,Musk,Feminine 
+Cacharel Yes I Am,Cacharel,Fruity,Currant,Pink Grapefruit,Jasmine,Feminine
+Clinique Happy,Clinique,Citrus,Grapefruit,Mandarin Orange,Green Notes,Feminine
+Philosophy Amazing Grace,Philosophy,Floral,Beragamot,Muguet,Musk,Feminine
+Issey Miyake L’Eau D’Issey Pour Homme,Issey Miyake,Citrus,Yuzu,Nutmeg,Sandalwood,Masculine
+Lolita Lempicka Lolita Lempicka,Lolita Lempicka,Licorice,Anise,Vanilla,Violet,Feminine
+Victoria's Secret Tease,Victoria's Secret,Fruity,Black Vanilla,Pear,Sandalwood,Feminine
+Stella McCartney Pop,Stella McCartney,Floral,Tuberose,Magnolia,Amber,Feminine
+Kenzo Amour,Kenzo,Floral,Rice Notes,Vanilla,Henna,Feminine
+Burberry Brit Rhythm,Burberry,Woody,Basil,Cardamom,Cedarwood,Masculine
+Bvlgari Aqva Pour Homme,Bvlgari,Aromatic,Mandarin Orange,Sage,Amber,Masculine
+Carolina Herrera CH Men,Carolina Herrera,Woody,Grapefruit,Cardamom,Suede,Masculine
+Michael Kors Michael Kors,Michael Kors,Tuberose,Freesia,Cashmere Musk,Feminine
